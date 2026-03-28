@@ -11,7 +11,13 @@
       },
     {
       "game": "Breath of the Wild",
-      "file": "jingles/Switch/Breath of the Wild.mp3"   
+      "file": "jingles/Switch/Breath of the Wild.mp3"
+       },
+    {
+      "game": "Klonoa 2: Lunatea's Veil",
+      "file": "jingles/Switch/Klonoa 2 Lunatea's Veil.mp3"
+      },
+    {
     }
   ]
 }
