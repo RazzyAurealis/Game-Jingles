@@ -1,9 +1,9 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "*Razzy's Jingle Pack",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Kirby Mass Attack",
+      "file": "jingles/nds/Kirby Mass Attack.mp3"
     },
     {
       "game": "Example Game 2",
