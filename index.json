@@ -8,6 +8,10 @@
     {
       "game": "Bayonetta 3",
       "file": "jingles/Switch/Bayonetta 3.wav"
+      },
+    {
+      "game": "Breath of the Wild",
+      "file": "jingles/Switch/Breath of the Wild.mp3"   
     }
   ]
 }
