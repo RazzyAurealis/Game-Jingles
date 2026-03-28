@@ -1,25 +1,13 @@
 {
-  "name": "*Razzy's Jingle Pack",
+  "name": "My Jingle Pack",
   "entries": [
     {
-      "game": "Kirby Mass Attack",
-      "file": "jingles/nds/Kirby Mass Attack.mp3"
+      "game": "Klona 2 - Lunatea's Veil",
+      "file": "jingles/ps2/Klonoa 2 Lunatea's Veil.mp3"
     },
     {
-      "game": "Bayonetta 3",
-      "file": "jingles/Switch/Bayonetta 3.wav"
-      },
-    {
-      "game": "Breath of the Wild",
-      "file": "jingles/Switch/Breath of the Wild.mp3"
-       },
-    {
-      "game": "Klonoa 2: Lunatea's Veil",
-      "file": "jingles/ps2/Klonoa 2 Lunatea's Veil.mp3"
-      },
-    {
-
-      
+      "game": "The Legend of Velma",
+      "file": "jingles/The Legend of Velma.ogg"
     }
   ]
 }
