@@ -1,67 +1,17 @@
 {
   "name": "My Jingle Pack",
   "entries": [
-     {
-      "name": "Klonoa 2 - Lunatea's Veil",
+    {
+      "game": "Klonoa 2 - Lunatea's Veil",
       "file": "jingles/ps2/Klonoa-2-Lunatea's-Veil.mp3"
     },
     {
-      "name": "Alliance Alive, The",
-      "file": "jingles/n3ds/alliance-alive-the.wav"
+      "game": "The Legend of Zelda - Breath of the Wild",
+      "file": "jingles/Switch/Breath of thet Wild.mp3"
     },
-    {
-      "name": "Animal Crossing - New Leaf",
-      "file": "jingles/n3ds/animal-crossing-new-leaf.wav"
+        {
+      "game": "Kirby Mass Attack",
+      "file": "jingles/nds/Kirby Mass Attack.mp3"
     },
-    {
-      "name": "Batman - Arkham Origins Blackgate",
-      "file": "jingles/n3ds/batman-arkham-origins-blackgate.wav"
-    },
-    {
-      "name": "BOXBOY!",
-      "file": "jingles/n3ds/boxboy.wav"
-    },
-    {
-      "name": "Bravely Default",
-      "file": "jingles/n3ds/bravely-default.wav"
-    },
-    {
-      "name": "Bravely Second - End Layer",
-      "file": "jingles/n3ds/bravely-second-end-layer.wav"
-    },
-    {
-      "name": "Captain Toad - Treasure Tracker",
-      "file": "jingles/n3ds/captain-toad-treasure-tracker.wav"
-    },
-    {
-      "name": "Castlevania - Lords of Shadow - Mirror of Fate",
-      "file": "jingles/n3ds/castlevania-lords-of-shadow-mirror-of-fate.wav"
-    },
-    {
-      "name": "Code Name - S.T.E.A.M.",
-      "file": "jingles/n3ds/code-name-steam.wav"
-    },
-    {
-      "name": "Cooking Mama - Sweet Shop",
-      "file": "jingles/n3ds/cooking-mama-sweet-shop.wav"
-    },
-    {
-      "name": "Cooking Mama 5 - Bon Appetit",
-      "file": "jingles/n3ds/cooking-mama-5-bon-appetit.wav"
-    },
-    {
-      "name": "Culdcept Revolt",
-      "file": "jingles/n3ds/culdcept-revolt.wav"
-    },
-    {
-      "name": "Detective Pikachu",
-      "file": "jingles/n3ds/detective-pikachu.wav"
-    },
-    {
-      "name": "Dillon's Dead-Heat Breakers",
-      "file": "jingles/n3ds/dillons-dead-heat-breakers.wav"
-    },
-    {
-      "name": "Dragon Ball Fusions",
-      "file": "jingles/n3ds/dragon-ball-fusions.wav"
-    },
+  ]
+}
